@@ -1,0 +1,7 @@
+inputs/metadados_micro.xlsx
+results/pca_plot.png
+*.fastq.gz
+inputs/silva_nr99_v138.1_train_set.fa.gz
+inputs/silva_species_assignment_v138.1.fa.gz
+workspace2024_03_01.RData
+inputs/2nd_run.zip

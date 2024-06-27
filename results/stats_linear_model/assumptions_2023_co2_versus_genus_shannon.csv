@@ -1,0 +1,6 @@
+test,Value,p-value,Decision
+Global Stat,2.182408733427267,0.7022511224123577,Assumptions acceptable.
+Skewness,0.9078065479534253,0.34069707668161797,Assumptions acceptable.
+Kurtosis,0.10221697183267332,0.7491852288839076,Assumptions acceptable.
+Link Function,0.9136320040608124,0.33915257422404554,Assumptions acceptable.
+Heteroscedasticity,0.2587532095803562,0.610978013146857,Assumptions acceptable.
